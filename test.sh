@@ -15,7 +15,7 @@ TEST_NAME="$1"
 
 # run the appropriate test
 if [ "$TEST_NAME" == "all" ]; then
-    $path "./source/test/test.dragon"
+    $path "./source/test/dragon/test.dragon"
 else
     echo "Error: Unknown test '$TEST_NAME'"
     exit 1

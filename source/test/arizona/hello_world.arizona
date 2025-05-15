@@ -1,0 +1,4 @@
+[ main ]
+arizona.main()() = {
+    arizona.print.buffer_as_string("The tumbleweed blows...")()
+}

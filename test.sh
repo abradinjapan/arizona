@@ -8,7 +8,7 @@ if [ -z "$1" ]; then
 fi
 
 # set the executable path
-path="../../dragon-project/dragon.elf"
+path="../../dragon-forge-project/dragon-forge.elf"
 
 # get the test name
 TEST_NAME="$1"

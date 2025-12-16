@@ -1,6 +1,0 @@
-[ main ]
-dragon.main()() = {
-    [ starting message ]
-    dragon.set("The tumbleweeds blow...%0a;")(message)
-    dragon.print.buffer_as_string(message)()
-}

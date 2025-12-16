@@ -1,3 +1,3 @@
-# The Arizona Programming Language
+# The Arizona Machine
 
-A language created to test the dragon programming language.
+A byte code language and intepreter designed to be simple yet robust.
